@@ -1,0 +1,30 @@
+[ 
+    {
+        "category": "world",
+        "sources": [
+            {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/rss.xml", "description": "BBC News"},
+            {"name": "CNN", "url": "http://rss.cnn.com/rss/cnn_world.rss", "description": "CNN World News"},
+            {"name": "Reuters", "url": "http://feeds.reuters.com/reuters/topNews", "description": "Reuters Top News"},
+            {"name": "Al Jazeera", "url": "http://www.aljazeera.com/xml/rss/all.xml", "description": "Al Jazeera News"},
+            {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss", "description": "The Guardian World News"},
+            {"name": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "description": "NYT World News"},
+            {"name": "France 24", "url": "https://www.france24.com/en/rss", "description": "France 24 News"},
+            {"name": "Bloomberg", "url": "https://www.bloomberg.com/feed/podcast/etf-report.xml", "description": "Bloomberg News"},
+            {"name": "NPR", "url": "https://www.npr.org/rss/rss.php?id=1001", "description": "NPR News"}
+        ]
+    },
+    {
+        "category": "business",
+        "sources": [
+            {"name": "BBC Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "description": "BBC Business News"},
+            {"name": "CNN Business", "url": "http://rss.cnn.com/rss/cnn_business.rss", "description": "CNN Business News"},
+            {"name": "Reuters Business", "url": "http://feeds.reuters.com/reuters/businessNews", "description": "Reuters Business News"},
+            {"name": "Al Jazeera Business", "url": "https://www.aljazeera.com/xml/rss/business.xml", "description": "Al Jazeera Business"},
+            {"name": "The Guardian Business", "url": "https://www.theguardian.com/business/rss", "description": "The Guardian Business News"},
+            {"name": "New York Times Business", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "description": "NYT Business News"},
+            {"name": "France 24 Business", "url": "https://www.france24.com/en/rss/economy", "description": "France 24 Economy (Business)"},
+            {"name": "Bloomberg Markets", "url": "https://www.bloomberg.com/rss/markets", "description": "Bloomberg Markets News"},
+            {"name": "NPR Business", "url": "https://www.npr.org/rss/rss.php?id=1006", "description": "NPR Business News"}
+        ]
+    }
+]
